@@ -18,4 +18,4 @@ Based on the above model presented , we can conclude that the DL model successfu
 
 ![image_3 (2)](https://user-images.githubusercontent.com/77839791/106416552-ab22c300-6477-11eb-96d7-b6960647976b.png)
 
-![image_4](https://user-images.githubusercontent.com/77839791/106416589-be359300-6477-11eb-9065-cb4478bb80ce.png)
+![image_4](https://user-images.githubusercontent.com/77839791/106416589-be359300-6477-11eb-9065-cb4478bb80ce.png).
